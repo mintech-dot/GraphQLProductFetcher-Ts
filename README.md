@@ -1,6 +1,6 @@
 # GraphQL Product Fetcher
 
-This project demonstrates how to fetch products from a GraphQL API using Typescript.
+This project demonstrates how to fetch products from a GraphQL API using Typescript & GraphQl-Codegen.
 
 ## Table of Contents
 
@@ -15,5 +15,3 @@ This project fetches products from the Vendure API, an open-source headless e-co
 
 - Fetch products from a GraphQL API.
 - Display product details on a web page.
-- Implement product search and filtering capabilities.
-
